@@ -1,4 +1,4 @@
-# meteor-errors
+# meteor-errors - Meteor Smart Package
 A pattern to display application errors to the user
-# Install
-meteor add tabata:errors
+# How to use?
+<code>meteor add tabata:errors</code>
