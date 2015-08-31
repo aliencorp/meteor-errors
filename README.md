@@ -5,5 +5,5 @@ A pattern to display application errors to the user
 ### How to use?
 
 ```
-meteor add tabata:errors
+meteor add aliencorp:errors
 ```
